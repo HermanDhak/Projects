@@ -1,0 +1,32 @@
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.exe
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.pdb
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.Properties.Resources.resources
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.csproj.GenerateResource.Cache
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.exe
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.pdb
+C:\Documents and Settings\dhakh\Desktop\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.FormConverter.resources
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.exe
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.pdb
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.exe
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.pdb
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.FormConverter.resources
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.Properties.Resources.resources
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.exe
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.pdb
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.exe
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.pdb
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.FormConverter.resources
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.Properties.Resources.resources
+C:\Users\Herman\Downloads\IT programs\cs\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.csproj.GenerateResource.Cache
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.exe
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.pdb
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.exe
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\bin\Debug\CanadianDollar.pdb
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.FormConverter.resources
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.Properties.Resources.resources
+C:\Users\Herman\Documents\IT programs\C#\CanadianDollar\CanadianDollar\obj\Debug\CanadianDollar.csproj.GenerateResource.Cache
