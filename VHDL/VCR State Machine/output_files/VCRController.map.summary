@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Oct 22 00:40:54 2013
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : VCRController
+Top-level Entity Name : VCRStateMachine
+Family : Cyclone II
+Total logic elements : 473
+    Total combinational functions : 473
+    Dedicated logic registers : 89
+Total registers : 89
+Total pins : 68
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

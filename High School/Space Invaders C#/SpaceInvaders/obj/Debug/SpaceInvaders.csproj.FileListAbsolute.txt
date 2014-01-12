@@ -1,0 +1,35 @@
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\ResolveAssemblyReference.cache
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.spaceInvadersForm.resources
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+\\Dc1nvss\student$\dhakh\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\ResolveAssemblyReference.cache
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+H:\My Documents\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.spaceInvadersForm.resources
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.SpaceInvadersForm.resources
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Downloads\IT programs\cs\SpaceInvaders\SpaceInvaders\obj\Debug\GenerateResource.write.1.tlog
+G:\Documents\IT programs\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+G:\Documents\IT programs\C#\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.SpaceInvadersForm.resources
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Herman\Documents\GitHub\Projects\High School\Space Invaders C#\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
