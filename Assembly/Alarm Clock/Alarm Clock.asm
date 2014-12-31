@@ -1,5 +1,3 @@
-;EECE 281 LAB 1
-;Herman Dhak   14368138
 
 $MODDE2
 
